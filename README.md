@@ -57,6 +57,26 @@ A basic calculator that carries the result of each operation forward into the ne
 
 ---
 
+### 🔢 calculator_v2.py
+A command-line calculator built using def functions.
+Features:
+- Basic arithmetic operations (+, -, *, /, //, **)
+- Continuous calculation until user exits
+- Input validation using try/except
+  
+---
+
+### 📱 calculator_v3.py
+An upgraded version of the calculator with additional features.
+Features:
+- All features of v2
+- Error handling for invalid numbers
+- Division by zero protection
+- Invalid sign detection
+- Calculation history (press h to view)
+
+---
+
 ### ⏰ Good Morning / Good Night Greeter (x2 versions)
 Greets the user based on the time of day — built in two versions:
 - **Manual** — user inputs the hour themselves
