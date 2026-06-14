@@ -17,5 +17,3 @@ while True:
         print("📈 Too high! Go lower!")
     elif guess < number:
         print("📉 Too low! Go higher!")
-
-S
