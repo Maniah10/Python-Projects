@@ -144,6 +144,16 @@ A command-line phonebook with full CRUD functionality and file persistence.
 
   ---
 
+  ### 🎯 Brutal Guessing Game
+Guess a random number between 1 and 100 — with only 3 attempts!
+- Directional hints after each wrong guess (too high / too low)
+- Reveals the answer if you run out of attempts
+- Shows total attempts taken on a win
+- Play again option after each round
+- Concepts used: `random` module, nested loops, `try/except`, flag variable
+
+  ---
+
 ## 📬 Contact
 **Manesh Bhagane**
 📧 manishbhagane127@gmail.com
