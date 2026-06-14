@@ -116,8 +116,36 @@ A text-based take on the classic Snake and Ladder concept.
 
 ---
 
+### 🎓 Student Database (student_db.py)
+A class-based student record system with search by ID.
+- Concepts used: OOP, `class`, `__init__`, `__str__`, lists, `for` loop
+
+---
+
+### 🎓 Student Database v2 (student_db_v2.py)
+Full CRUD student management system with persistent file storage.
+- Add, search, update, delete students
+- Data saved to `.txt` file — persists between sessions
+- Concepts used: OOP, file handling (`open`, `read`, `write`, `append`), CRUD logic
+
+---
+
+### 🌸 Flower Database (flower_db.py)
+A class-based flower record system.
+- Concepts used: OOP, `class`, `__init__`, `__str__`, lists
+
+---
+
+### 📞 Phonebook (phonebook.py)
+A command-line phonebook with full CRUD functionality and file persistence.
+- Add, search, delete contacts
+- Input validation for phone numbers
+- Concepts used: OOP, file handling, input validation, string methods
+
+  ---
+
 ## 📬 Contact
-**Manish Bhagane**
+**Manesh Bhagane**
 📧 manishbhagane127@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/manesh-bhagane)
 📍 Mumbai, India
